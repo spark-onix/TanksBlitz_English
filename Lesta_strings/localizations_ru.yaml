@@ -793,10 +793,6 @@
 "avatars/Items/RassenayHeroesMedal/ObtainmentDetailed": "Получай медали героев Расейняя"
 "avatars/Items/RassenayHeroesMedal/ObtainmentShort": "Получи медаль %(amount) р."
 
-"battleType/nanomaps": "Столкновение"
-"hangar/battleType/nanomapsHeader": "СТОЛКНОВЕНИЕ"
-"hangar/battleType/nanomapsDescription": "Маленькие карты — сумасшедшая динамика!\n\nОсобенности:\n• Бои проходят на ограниченных участках некоторых карт.\n• В каждой команде 5 танков.\n• Размер базы уменьшен, и её захват идёт гораздо быстрее.\n• Бои проходят по правилам Встречного боя, длятся 7 минут и не учитываются в статистике."
-
 "storage/Items/BattleXPBooster/Rare/Description": 
 "storage/Items/CreditsBooster/Rare/Description": 
 "storage/Items/CrewXPBooster/Rare/Description": 
@@ -3892,7 +3888,7 @@
 #version 9.5
 "avatars/Items/January2023_animated/Description": "Передаёт привет подлунному миру"
 "avatars/Items/January2023_animated/Title": "Анимированный аватар «Лунный заяц»"
-"avatars/Items/bp29_ruby/BundleAvatar/Obtainment": "Доступен покупателям особого набора во время Операции «Металлический шторм» в январе 2023 г."
+"avatars/Items/bp29_ruby/BundleAvatar/Obtainment": "Награда в различных игровых активностях"
 "avatars/Items/bp29_ruby/BundleAvatar/Title": "Аватар «Лидер»"
 "storage/Items/Chest_NY2023_SuperGame/Description": "Потряси Снежный шар, чтобы выиграть один из 33 редких танков! А ещё среди подарков ты гарантированно найдёшь Талисман Strv K!"
 "storage/Items/Chest_NY2023_SuperGame/Feature": "Ищи Снежные шары в этапе события «Новогодний экспресс» и Коробках с подарками за свободный опыт и золото."
@@ -3923,8 +3919,8 @@
 "storage/Items/prx_roll_gold_part_ny2023/Description": "Собери 5 Золотых бирок и открой Золотую коробку с подарками бесплатно!"
 "avatars/Items/bp29_ruby/FreeBattlePass/Title": "Аватар «Упорная борьба»"
 "avatars/Items/bp29_ruby/PaidBattlePass/Title": "Аватар «Наблюдатель»"
-"storage/Items/Camouflage/bp29_ruby/FreeBattlePass/Obtainment": "Доступен с базовым или Особым пропуском во время Операции «Металлический шторм» в январе 2023 г."
-"storage/Items/Camouflage/bp29_ruby/PaidBattlePass/Obtainment": "Доступен с Особым пропуском во время Операции «Металлический шторм» в январе 2023 г."
+"storage/Items/Camouflage/bp29_ruby/FreeBattlePass/Obtainment": "Награда в различных игровых активностях"
+"storage/Items/Camouflage/bp29_ruby/PaidBattlePass/Obtainment": "Награда в различных игровых активностях"
 "avatars/Items/bp29_ruby/FreeBattlePass/ObtainmentShort": "Открой %(progress) уровень"
 "avatars/Items/bp29_ruby/FreeBattlePass/ObtainmentDetailed": "Доступен с базовым пропуском во время Операции «Металлический шторм» в январе 2023 г."
 "avatars/Items/bp29_ruby/PaidBattlePass/ObtainmentShort": "Открой %(progress) уровень"
@@ -9164,8 +9160,6 @@
 "storage/Items/lv_com_stuff_part3/Description": "Читай продолжение нашего комикса «Ледяные Великаны. Миссия: Айспинг» на портале tanksblitz.ru! А этот предмет можешь оставить на память в Хранилище или обменять на 500 золота"
 "storage/Items/lv_com_stuff_part3/Obtainment": "Входит в состав набора, который можно купить в магазине"
 "storage/Items/draw_jun26_T95E2/Title": "Розыгрыш \n«Американские горки»"
-"storage/Items/stuffQuest_blitz_point_3_4/Title": "Квест «В ритме Лиги»"
-"storage/Items/stuffQuest_blitz_point_3_4/Description": "Одержи 40 побед в боях быстрых турниров"
 "storage/Items/avatar_blitz_point_p4_legendary_q/Title": "Аватар «КрУТЬ»"
 "storage/Items/avatar_blitz_point_p4_legendary_q/Description": "Смог в турнирах ультанУТЬ"
 "storage/Items/avatar_blitz_point_p4_legendary_d/Title": "Аватар «Ееее, рок»"
@@ -9194,3 +9188,34 @@
 "storage/Items/cmpns_token/Title": "Сертификат «За повторку»"
 "storage/Items/cmpns_token/Description": "Добавляет в Ангар премиум или коллекционный танк II–X уровней из списка"
 "storage/Items/cmpns_token/Obtainment": "Компенсация за повторное выпадение танка из контейнеров"
+#version 26.7
+"storage/Items/stuffQuest_blitz_point_3_4/Description": "Одержи 40 побед в боях быстрых турниров"
+"storage/Items/stuffQuest_blitz_point_3_4/Title": "Квест «В ритме Лиги»"
+"storage/Items/amx_m4_mle1949_ter_chest/Description": 
+"storage/Items/amx_m4_mle1949_ter_chest/Title": 
+"storage/Items/amx_m4_mle1949_ter_chest_v2/Description": 
+"storage/Items/amx_m4_mle1949_ter_chest_v2/Title": 
+"storage/Items/proxy_progress_chest_mle1949/Currency/Description": 
+"storage/Items/proxy_progress_chest_mle1949/Currency/Features": 
+"storage/Items/proxy_progress_chest_mle1949/Currency/Obtainment": 
+"storage/Items/proxy_progress_chest_mle1949/Currency/Title": 
+"storage/Items/hdecor_tp_soccer_wch/Description": "Собирай команду и выигрывай<br/><br/>• Устанавливается в слот Ангара\n• Не отображается в специальных праздничных Ангарах"
+"storage/Items/hdecor_tp_soccer_wch/Title": "Атрибут Ангара «Футбольное поле»"
+"storage/Items/draw_jul26_fwch/Title": "Розыгрыш \n«Голевой момент»"
+"storage/Items/bp_26_07_avatar_bundle/Obtainment": "Доступен покупателям особого набора во время Эпизода «Отчаянная заварушка» в июле 2026 г."
+"storage/Items/bp_26_07_avatar_bundle/Title": "Аватар «Шеф катки»"
+"storage/Items/bp_26_07_avatar_progressive_free/Title": "Аватар «Боевые вкусняшки»"
+"storage/Items/bp_26_07_avatar_progressive_paid/Title": "Аватар «Подготовка к потасовке»"
+"storage/Items/bp_26_07_couponForUnlockCamo/Obtainment": "Доступен с базовым или Особым пропуском во время Эпизода «Отчаянная заварушка» в июле 2026 г."
+"storage/Items/bp_26_07_couponForUnlockCamo_3/Obtainment": "Доступен с Особым пропуском во время Эпизода «Отчаянная заварушка» в июле 2026 г."
+"storage/Items/bp_26_07_profile_skin/Title": "Фон профиля «Отчаянная заварушка»"
+"avatars/Items/bp26_07/FreeBattlePass/ObtainmentShort": "Открой %(progress) уровень"
+"avatars/Items/bp26_07/FreeBattlePass/ObtainmentDetailed": "Доступен с базовым пропуском во время Эпизода «Отчаянная заварушка» в июле 2026 г."
+"avatars/Items/bp26_07/PaidBattlePass/ObtainmentShort": "Открой %(progress) уровень"
+"avatars/Items/bp26_07/PaidBattlePass/ObtainmentDetailed": "Доступен с Особым пропуском во время Эпизода «Отчаянная заварушка» в июле 2026 г."
+"storage/Items/draw_chests_16st_apr26/Title": "Розыгрыш \n«Мини-распаковка»"
+"storage/Items/draw_jul26_F116_B_C_Bourrasque/Title": "Розыгрыш \n«Нельзя проворонить»"
+"storage/Items/Subscription/sticky_money_10dexp_jul26/Title": "Подписка «Премиальная декада»"
+"storage/Items/draw_jul26_M6E2V2_BP/Title": "Розыгрыш \n«ИИллюзия безопасности»"
+"storage/Items/stuffQuest_2026_SRR_JULY/Title": "Квест «Самый сытый боец»"
+"storage/Items/stuffQuest_2026_SRR_JULY/Description": "Уничтожь 150 танков противника"

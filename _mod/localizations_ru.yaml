@@ -769,9 +769,6 @@
 "avatars/Items/VictoriesNumber/ObtainmentShort": "Win %(wins) battle(s)"
 "avatars/Items/RassenayHeroesMedal/ObtainmentDetailed": "• Earn Raseiniai Heroes' Medals.\n• All medals received since your account creation are counted."
 "avatars/Items/RassenayHeroesMedal/ObtainmentShort": "Earn %(amount) medal(s)"
-"battleType/nanomaps": "Skirmish"
-"hangar/battleType/nanomapsHeader": "SKIRMISH"
-"hangar/battleType/nanomapsDescription": "Small maps—insane dynamics!\n\nFeatures:\n• Battles take place on restricted areas of certain maps.\n• 5 tanks in each team.\n• Base size is reduced, and capture is much faster.\n• Battles follow Encounter Battle rules, last 7 minutes, and do not affect statistics."
 "storage/Items/BattleXPBooster/Rare/Description": "Gives a %(economicBooster.xpBoostFactor) bonus to Combat XP earned in battle.\nCombine boosters of this type to get Epic Combat XP boosters (+%(reward_economicBooster.xpBoostFactor))."
 "storage/Items/CreditsBooster/Rare/Description": "Gives a %(creditsBoostMin)–%(creditsBoostMax) bonus to credits earned in battle.\nCombine boosters of this type to get Epic Credit boosters (+%(reward_creditsBoostMin)–%(reward_creditsBoostMax))."
 "storage/Items/CrewXPBooster/Rare/Description": "Gives a %(economicBooster.xpAvBoostFactor) bonus to Crew XP earned in battle.\nCombine boosters of this type to get Epic Crew XP boosters (+%(reward_economicBooster.xpAvBoostFactor))."
@@ -8972,8 +8969,6 @@
 "storage/Items/lv_com_stuff_part3/Description": "Read the continuation of our \"Ice Giants. Mission: Icepink\" comic on the tanksblitz.ru portal! You can keep this item as a souvenir in Storage or exchange it for 500 gold"
 "storage/Items/lv_com_stuff_part3/Obtainment": "Included in a bundle available for purchase in the Store"
 "storage/Items/draw_jun26_T95E2/Title": "Roller Coaster Draw"
-"storage/Items/stuffQuest_blitz_point_3_4/Title": "League Rhythm Quest"
-"storage/Items/stuffQuest_blitz_point_3_4/Description": "Earn 40 victories in Quick Tournament battles"
 "storage/Items/avatar_blitz_point_p4_legendary_q/Title": "Cool-ness Avatar"
 "storage/Items/avatar_blitz_point_p4_legendary_q/Description": "Managed to go all-out in tournaments"
 "storage/Items/avatar_blitz_point_p4_legendary_d/Title": "Yeah, Rock Avatar"
@@ -9002,3 +8997,33 @@
 "storage/Items/cmpns_token/Title": "Duplicate Certificate"
 "storage/Items/cmpns_token/Description": "Adds a Tier II–X premium or collector tank from the list to the Garage"
 "storage/Items/cmpns_token/Obtainment": "Compensation for a duplicate tank drop from containers"
+"storage/Items/stuffQuest_blitz_point_3_4/Description": "Earn 40 victories in Quick Tournament battles"
+"storage/Items/stuffQuest_blitz_point_3_4/Title": "League Rhythm Quest"
+"storage/Items/amx_m4_mle1949_ter_chest/Description": 
+"storage/Items/amx_m4_mle1949_ter_chest/Title": 
+"storage/Items/amx_m4_mle1949_ter_chest_v2/Description": 
+"storage/Items/amx_m4_mle1949_ter_chest_v2/Title": 
+"storage/Items/proxy_progress_chest_mle1949/Currency/Description": 
+"storage/Items/proxy_progress_chest_mle1949/Currency/Features": 
+"storage/Items/proxy_progress_chest_mle1949/Currency/Obtainment": 
+"storage/Items/proxy_progress_chest_mle1949/Currency/Title": 
+"storage/Items/hdecor_tp_soccer_wch/Description": "Собирай команду и выигрывай<br/><br/>• Устанавливается в слот Ангара\n• Не отображается в специальных праздничных Ангарах"
+"storage/Items/hdecor_tp_soccer_wch/Title": "Атрибут Ангара «Футбольное поле»"
+"storage/Items/draw_jul26_fwch/Title": "Розыгрыш \n«Голевой момент»"
+"storage/Items/bp_26_07_avatar_bundle/Obtainment": "Доступен покупателям особого набора во время Эпизода «Отчаянная заварушка» в июле 2026 г."
+"storage/Items/bp_26_07_avatar_bundle/Title": "Аватар «Шеф катки»"
+"storage/Items/bp_26_07_avatar_progressive_free/Title": "Аватар «Боевые вкусняшки»"
+"storage/Items/bp_26_07_avatar_progressive_paid/Title": "Аватар «Подготовка к потасовке»"
+"storage/Items/bp_26_07_couponForUnlockCamo/Obtainment": "Доступен с базовым или Особым пропуском во время Эпизода «Отчаянная заварушка» в июле 2026 г."
+"storage/Items/bp_26_07_couponForUnlockCamo_3/Obtainment": "Доступен с Особым пропуском во время Эпизода «Отчаянная заварушка» в июле 2026 г."
+"storage/Items/bp_26_07_profile_skin/Title": "Фон профиля «Отчаянная заварушка»"
+"avatars/Items/bp26_07/FreeBattlePass/ObtainmentShort": "Открой %(progress) уровень"
+"avatars/Items/bp26_07/FreeBattlePass/ObtainmentDetailed": "Доступен с базовым пропуском во время Эпизода «Отчаянная заварушка» в июле 2026 г."
+"avatars/Items/bp26_07/PaidBattlePass/ObtainmentShort": "Открой %(progress) уровень"
+"avatars/Items/bp26_07/PaidBattlePass/ObtainmentDetailed": "Доступен с Особым пропуском во время Эпизода «Отчаянная заварушка» в июле 2026 г."
+"storage/Items/draw_chests_16st_apr26/Title": "Розыгрыш \n«Мини-распаковка»"
+"storage/Items/draw_jul26_F116_B_C_Bourrasque/Title": "Розыгрыш \n«Нельзя проворонить»"
+"storage/Items/Subscription/sticky_money_10dexp_jul26/Title": "Подписка «Премиальная декада»"
+"storage/Items/draw_jul26_M6E2V2_BP/Title": "Розыгрыш \n«ИИллюзия безопасности»"
+"storage/Items/stuffQuest_2026_SRR_JULY/Title": "Квест «Самый сытый боец»"
+"storage/Items/stuffQuest_2026_SRR_JULY/Description": "Уничтожь 150 танков противника"
